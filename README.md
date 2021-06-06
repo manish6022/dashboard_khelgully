@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Key feature --------------------->
+    1.Responsive
+    2.Reusable Components
+    3.Material-UI
+    4.Classless (Only JSX)
+    https://github.com/manish6022/dashboard_khelgully/blob/master/public/output/3.jpg
+    https://github.com/manish6022/dashboard_khelgully/blob/master/public/output/mobile.jpg
+    https://github.com/manish6022/dashboard_khelgully/blob/master/public/output/screen_size(MD).jpg
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
