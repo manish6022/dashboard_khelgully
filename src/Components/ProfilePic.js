@@ -7,12 +7,12 @@ const useStyles = makeStyles((theme) => ({
         height: theme.spacing(5),
       },
       medium: {
-            width: theme.spacing(10),
-            height: theme.spacing(10),
+            width: theme.spacing(8),
+            height: theme.spacing(8),
           },
       large: {
-        width: theme.spacing(20),
-        height: theme.spacing(20),
+        width: theme.spacing(12),
+        height: theme.spacing(12),
       },
     }));
 
